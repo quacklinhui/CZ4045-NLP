@@ -3,3 +3,7 @@
 *.zip
 Accuracy plot.jpg
 Loss plt.jpg
+model/variables/variables.index
+model/saved_model.pb
+model/keras_metadata.pb
+model/variables/variables.data-00000-of-00001
