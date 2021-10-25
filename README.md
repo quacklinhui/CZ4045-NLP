@@ -44,4 +44,4 @@ Since our application uses **Elasticsearch** for a search engine, we need to ens
 5. Ensure that elasticsearch is running by going to `http://localhost:9200/`
 
 ## Explanations of sample output obtained from your system
-someone do this plz
+Refer to the output in the jupyer notebooks
