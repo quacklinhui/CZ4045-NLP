@@ -22,3 +22,19 @@ Various python libraries are used in our assignment. Below are the libraries we 
 - scikit-learn `conda install -c conda-forge scikit-learn`
 - langdetect `conda install -c conda-forge langdetect`
 - elasticsearch `conda install -c conda-forge elasticsearch`
+
+## Guide on using the System
+Our assignment contain 4 different Jupyter Notebook files. To run them, simply open them with Jupyter Notebook and run the cells from top to bottom.
+
+**3.2. Dataset Analysis**
+- NLP Assignment 1 - Data Analysis.pynb
+
+**3.3. Extraction of Indicative Adjective Phrases**
+- NLP Assignment 1 - Extraction of Indicative Adjective Phrases.pynb
+
+**3.4. Application**
+- NLP Assignment 1 - Sentiment Analysis Model.pynb
+- NLP Assignment 1 - Application Implementation.pynb
+
+## Explanations of sample output obtained from your system
+someone do this plz
