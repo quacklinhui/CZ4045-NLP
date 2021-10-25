@@ -35,6 +35,12 @@ Our assignment contain 4 different Jupyter Notebook files. To run them, simply o
 **3.4. Application**
 - NLP Assignment 1 - Sentiment Analysis Model.pynb
 - NLP Assignment 1 - Application Implementation.pynb
+Since our application uses **Elasticsearch** for a search engine, we need to ensure that an elasticsearch instance is running before running our application. To set up elasticsearch:
+1. Open up command prompt
+2. Navigate into the elasticsearch directory (previously downloaded above)
+3. Navigation to the ./bin directory
+4. Run elasticsearch by entering `elasticsearch.bat`
+5. Ensure that elasticsearch is running by going to `http://localhost:9200/`
 
 ## Explanations of sample output obtained from your system
 someone do this plz
